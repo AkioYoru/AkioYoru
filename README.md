@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkioYoru
+- 👀 I’m interested in Javascript(Node.js), Python, C, C++
+- 🌱 I’m currently learning Javascript(Node.js), Python, C, C++
+- 📫 How to reach me CevX3Z#9999 on Discord
